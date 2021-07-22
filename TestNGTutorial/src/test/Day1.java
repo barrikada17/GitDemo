@@ -10,6 +10,8 @@ public class Day1 {
 	@AfterSuite
 	public void aSuite() {
 		System.out.println("Last Test");
+		System.out.println("Last Test2");
+		System.out.println("Last Test3");
 	}
 	
 	
