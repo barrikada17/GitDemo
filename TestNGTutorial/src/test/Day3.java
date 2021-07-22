@@ -22,6 +22,8 @@ public class Day3 {
 	@AfterClass
 	public void afterClass() {
 		System.out.println("I will execute after any method in day3 Class");
+		System.out.println("I will execute after any method in day3 Class");
+		System.out.println("I will execute after any method in day3 Class");
 	}
 
 	@Parameters({"URL","APIKey/usrname"})
