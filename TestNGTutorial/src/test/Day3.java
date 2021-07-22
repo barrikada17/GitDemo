@@ -38,6 +38,8 @@ public class Day3 {
 	@BeforeMethod
 	public void beforeEvery() {
 		System.out.println("I will execute before every test method in day3 Class");
+		System.out.println("I will execute before every test method in day3 Class");
+		System.out.println("I will execute before every test method in day3 Class");
 	}
 
 	@AfterMethod
