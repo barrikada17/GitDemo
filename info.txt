@@ -1,0 +1,168 @@
+Microsoft Windows [Versión 10.0.19042.1110]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Aitor>git config --global user.name "barrikada17"
+
+C:\Users\Aitor>git config --global user.email "aitor_bezoya@hotmail.com"
+
+C:\Users\Aitor>cd C:\Gitstuff
+
+C:\Gitstuff>git init
+Initialized empty Git repository in C:/Gitstuff/.git/
+
+C:\Gitstuff>git add *
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Loan Department/Car Loan.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Loan Department/Car Loan.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Loan Department/Personal loan.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Loan Department/Personal loan.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Loan Department/Regression.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/Loan Department/Regression.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/jquery-3.4.1.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/junitreports/TEST-test.Day1.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/junitreports/TEST-test.Day2.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/junitreports/TEST-test.Day3.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/junitreports/TEST-test.Day4.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/groups.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/Loan Department/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in TestNGTutorial/test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+
+C:\Gitstuff>git commit -m "first commit"
+[master (root-commit) 827d664] first commit
+ 71 files changed, 3417 insertions(+)
+ create mode 100644 TestNGTutorial/.classpath
+ create mode 100644 TestNGTutorial/.project
+ create mode 100644 TestNGTutorial/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 TestNGTutorial/bin/test/Day1.class
+ create mode 100644 TestNGTutorial/bin/test/Day2.class
+ create mode 100644 TestNGTutorial/bin/test/Day3.class
+ create mode 100644 TestNGTutorial/bin/test/Day4.class
+ create mode 100644 TestNGTutorial/bin/test/Listeners.class
+ create mode 100644 TestNGTutorial/src/test/Day1.java
+ create mode 100644 TestNGTutorial/src/test/Day2.java
+ create mode 100644 TestNGTutorial/src/test/Day3.java
+ create mode 100644 TestNGTutorial/src/test/Day4.java
+ create mode 100644 TestNGTutorial/src/test/Listeners.java
+ create mode 100644 TestNGTutorial/test-output/Default suite/Default test.html
+ create mode 100644 TestNGTutorial/test-output/Default suite/Default test.xml
+ create mode 100644 TestNGTutorial/test-output/Default suite/testng-failed.xml
+ create mode 100644 TestNGTutorial/test-output/Loan Department/Car Loan.html
+ create mode 100644 TestNGTutorial/test-output/Loan Department/Car Loan.xml
+ create mode 100644 TestNGTutorial/test-output/Loan Department/Personal loan.html
+ create mode 100644 TestNGTutorial/test-output/Loan Department/Personal loan.xml
+ create mode 100644 TestNGTutorial/test-output/Loan Department/Regression.html
+ create mode 100644 TestNGTutorial/test-output/Loan Department/Regression.xml
+ create mode 100644 TestNGTutorial/test-output/Loan Department/testng-failed.xml
+ create mode 100644 TestNGTutorial/test-output/bullet_point.png
+ create mode 100644 TestNGTutorial/test-output/collapseall.gif
+ create mode 100644 TestNGTutorial/test-output/emailable-report.html
+ create mode 100644 TestNGTutorial/test-output/failed.png
+ create mode 100644 TestNGTutorial/test-output/index.html
+ create mode 100644 TestNGTutorial/test-output/jquery-3.4.1.min.js
+ create mode 100644 TestNGTutorial/test-output/junitreports/TEST-test.Day1.xml
+ create mode 100644 TestNGTutorial/test-output/junitreports/TEST-test.Day2.xml
+ create mode 100644 TestNGTutorial/test-output/junitreports/TEST-test.Day3.xml
+ create mode 100644 TestNGTutorial/test-output/junitreports/TEST-test.Day4.xml
+ create mode 100644 TestNGTutorial/test-output/navigator-bullet.png
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/Default test.properties
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/classes.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/groups.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/index.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/main.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/methods-not-run.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/methods.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/reporter-output.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/testng.xml.html
+ create mode 100644 TestNGTutorial/test-output/old/Default suite/toc.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/Car Loan.properties
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/Personal loan.properties
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/Regression.properties
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/classes.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/groups.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/index.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/main.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/methods-alphabetical.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/methods-not-run.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/methods.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/reporter-output.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/testng.xml.html
+ create mode 100644 TestNGTutorial/test-output/old/Loan Department/toc.html
+ create mode 100644 TestNGTutorial/test-output/old/index.html
+ create mode 100644 TestNGTutorial/test-output/passed.png
+ create mode 100644 TestNGTutorial/test-output/skipped.png
+ create mode 100644 TestNGTutorial/test-output/testng-failed.xml
+ create mode 100644 TestNGTutorial/test-output/testng-reports.css
+ create mode 100644 TestNGTutorial/test-output/testng-reports.js
+ create mode 100644 TestNGTutorial/test-output/testng-reports1.css
+ create mode 100644 TestNGTutorial/test-output/testng-reports2.js
+ create mode 100644 TestNGTutorial/test-output/testng-results.xml
+ create mode 100644 TestNGTutorial/test-output/testng.css
+ create mode 100644 TestNGTutorial/testng.xml
+ create mode 100644 TestNGTutorial/testng2.xml
+ create mode 100644 TestNGTutorial/testng3.xml
+
+C:\Gitstuff>git remote add origin https://github.com/barrikada17/GitDemo.git
+
+C:\Gitstuff>git push origin master
+info: please complete authentication in your browser...
+Enumerating objects: 83, done.
+Counting objects: 100% (83/83), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (77/77), done.
+Writing objects: 100% (83/83), 66.45 KiB | 6.04 MiB/s, done.
+Total 83 (delta 19), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (19/19), done.
+To https://github.com/barrikada17/GitDemo.git
+ * [new branch]      master -> master
+
+C:\Gitstuff>
